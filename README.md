@@ -1,4 +1,4 @@
-# animal-card
+# Animal-card
 # Lion Trading Card Project
 
 This project consists of a simple lion trading card created using HTML and CSS. It provides a clean and visually appealing representation of a lion along with classification details.
